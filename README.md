@@ -137,6 +137,12 @@ The **Facilitator** is a service that handles blockchain interactions so you don
 composer require robert-schmidt/laravel-x402
 ```
 
+### or using git:
+
+```bash
+git clone https://github.com/robert-schmidt/laravel-x402.git .
+```
+
 ### Step 2: Publish Configuration
 
 ```bash
